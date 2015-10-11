@@ -4,4 +4,4 @@ title: Kes?
 permalink: /kes/
 ---
 
-Olen [Ajapaik.ee](http://ajapaik.ee) eestvedaja
+Olen [Ajapaik.ee](http://ajapaik.ee) eestvedaja.
