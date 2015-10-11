@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kes?
-permalink: /Kes/
+permalink: /kes/
 ---
 
 Olen [Ajapaik.ee](http://ajapaik.ee) eestvedaja
