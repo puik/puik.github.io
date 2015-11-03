@@ -18,6 +18,6 @@ See võib olla tõsi, aga oma töös puutun sellega otseselt kokku, et tõesti k
 
 Sedasama tõestab ka minu sellesügisese ja üleüldse ühe suurema lugemiselamuse [lugu](http://www.wsj.com/news/articles/SB10001424052702304558804579375161461671196). Jutt on nimelt **Andy Weiri** raamatust [“Marslane”](http://www.ester.ee/record=b4487551*est), mille põhjal vändatud film alles oktoobris ka Eestis kinodesse jõudis. Andy nimelt avaldas oma hiljem bestselleriks saanud raamatu algul järjejutuna ja tasuta, pani fännide soovitusel seejärel e-raamatu Amazonis väikseima võimaliku hinnaga (99 senti) müüki ja müüs kolme kuuga 35 000 eksemplari.. Edasi on juba ajalugu, soovitan raamatut kõigile palavalt. 
 
-_
+
 *Täiendus 3.11:*  
 Taipasin, et ma konkreetseid Falkvinge/Engströmi ettepanekuid ei kommenteerinudki, kuigi lugesin. Ütlesin üksnes, et olen autoriõiguse reformimisega päri. Lihtsalt arvan, et tänasel päeval oleks ehk ajakohasem Falkvinge/Engströmi ettepanekute lugemise asemel tutvuda uue piraadist MEPi Julia Reda sel kevadel avaldatud [autoriõiguse reformi raportiga](https://juliareda.eu/copyright-evaluation-report-explained/).
