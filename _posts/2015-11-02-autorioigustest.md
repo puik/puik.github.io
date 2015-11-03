@@ -21,3 +21,6 @@ Sedasama tõestab ka minu sellesügisese ja üleüldse ühe suurema lugemiselamu
 
 *Täiendus 3.11:*  
 Taipasin, et ma konkreetseid Falkvinge/Engströmi ettepanekuid ei kommenteerinudki, kuigi lugesin. Ütlesin üksnes, et olen autoriõiguse reformimisega päri. Lihtsalt arvan, et tänasel päeval oleks ehk ajakohasem Falkvinge/Engströmi ettepanekute lugemise asemel tutvuda uue piraadist MEPi Julia Reda sel kevadel avaldatud [autoriõiguse reformi raportiga](https://juliareda.eu/copyright-evaluation-report-explained/).
+
+*2. täiendus 3.11:*
+Äsja on [Europeana Sihtasutus](http://europeana.eu) koostanud ja avaldanud ka [**avaliku kirja Euroopa Komisjonile** (sealjuures cc ka hr Ansipile) **Euroopa Liidu autoriõiguse reformi küsimuses**](http://pro.europeana.eu/get-involved/europeana-ipr/advocacy/open-letter-on-copyright-reform), millele kogutakse kultuuriasutuste juhtide allkirju. Peamine, millele kirjas rõhutakse, on, et mäluasutustel oleks võimalik ka digitaalses keskkonnas jagada nende kogusse kuuluvat kultuurivara, isegi kui see on veel autoriõigustega kaitstud, juhul kui teos ei ole aktiivses kasutuses (*not actively exploited by their creators or subsequent rights holders*).
