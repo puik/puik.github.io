@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Netiketi 6. reegel ja crowdsourcing
 tags: ITESPA
 ---
