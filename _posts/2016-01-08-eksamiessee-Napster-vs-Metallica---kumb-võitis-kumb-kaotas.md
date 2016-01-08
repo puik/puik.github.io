@@ -2,11 +2,10 @@
 layout: post
 published: true
 title: Napster vs Metallica – kumb võitis, kumb kaotas
-subtitle: Eksamiessee
-tags: ITESPA
+tags: ITESPA, eksamiessee
 ---
 
-Kui [Metallica 2000. aastal Napsteri vastu kohtusse](https://en.wikipedia.org/wiki/Metallica_v._Napster,_Inc.) läks, olin mina küll juba arvutikasutaja, aga mitte arvutiomanik, nii et p2p failijagamisega ma ise ei tegelenud ning too kohtulugu ei ole mulle ka mälestustesse jäänud, see-eest mäletan aga seitse aastat hilisemat elevust, kui [Radiohead otsustas oma “In rainbows” albumi](https://en.wikipedia.org/wiki/In_Rainbows) avaldada digitaalselt nn pay what you want mudelit kasutades. Et ma Radioheadi fänn ei olnud, siis kuulusin nende 62 protsendi albumi ametlikult saidilt allalaadinute hulka, kes otsustasid nende loominguga tutvuda tasuta.
+*Kui [Metallica 2000. aastal Napsteri vastu kohtusse](https://en.wikipedia.org/wiki/Metallica_v._Napster,_Inc.) läks, olin mina küll juba arvutikasutaja, aga mitte arvutiomanik, nii et p2p failijagamisega ma ise ei tegelenud ning too kohtulugu ei ole mulle ka mälestustesse jäänud, see-eest mäletan aga seitse aastat hilisemat elevust, kui [Radiohead otsustas oma “In rainbows” albumi](https://en.wikipedia.org/wiki/In_Rainbows) avaldada digitaalselt nn pay what you want mudelit kasutades. Et ma Radioheadi fänn ei olnud, siis kuulusin nende 62 protsendi albumi ametlikult saidilt allalaadinute hulka, kes otsustasid nende loominguga tutvuda tasuta.*
 
 Kaks märgilist sündmust internetiajastu muusikaäris, üks enneolematu edulugu (väidetavalt teenis Radiohead “In rainbows’i” jaoks valitud müügimudeliga rohkem kui kõigi oma varasemate albumitega kokku), teine aga kohtuvõidust hoolimata pigem mainekahju juhtum, sest Metallica, formaalselt failivahendusteenuse vastu võideldes ja kohtus loomulikult võites, läks tegelikult samal ajal vastamisi oma fännidega.
 
