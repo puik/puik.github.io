@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Napster vs Metallica – kumb võitis, kumb kaotas
 tags: ITESPA, eksamiessee
 ---
