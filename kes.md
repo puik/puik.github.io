@@ -2,6 +2,7 @@
 layout: page
 title: Kes?
 permalink: /kes/
+published: false
 ---
 
 Olen [Ajapaik.ee](http://ajapaik.ee) eestvedaja.
