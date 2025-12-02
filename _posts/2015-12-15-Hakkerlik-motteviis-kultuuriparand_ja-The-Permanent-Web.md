@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Häkkerlik mõtteviis, kultuuripärand ja The Permanent Web
 tags: ITESPA
 ---
