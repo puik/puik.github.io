@@ -6,7 +6,7 @@
 name: Vahur Puik
 
 # Short bio or description (displayed in the header)
-description: it arenduse õpingute algus
+description: fotopärandientusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/2512379?v=3&s=460
@@ -22,11 +22,11 @@ footer-links:
   github: puik
   linkedin: vahurpuik
   facebook: vahur.puik
-  twitter: puik
-  instagram: puikvah
+  # twitter: puik
+  # instagram: puikvah
   flickr: vahurpuik
   pinterest:
-  rss: "postituste feed"
+  # rss: "postituste feed"
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
